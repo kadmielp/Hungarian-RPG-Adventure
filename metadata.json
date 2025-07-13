@@ -1,0 +1,6 @@
+{
+  "name": "Hungarian RPG Adventure",
+  "description": "An immersive language learning RPG where you embark on a fantasy adventure in historical Hungary. Powered by Google Gemini to dynamically generate story, dialogue, and analyze Hungarian words to teach grammar.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
