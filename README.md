@@ -65,7 +65,7 @@ This project is designed to run in an environment where the Google Gemini API ke
 
 You must have a Google Gemini API key. This key should be available as an environment variable:
 ```
-API_KEY="YOUR_API_KEY_HERE"
+GEMINI_API_KEY=PLACEHOLDER_API_KEY
 ```
 The application source code reads this key directly from `process.env.API_KEY`.
 
